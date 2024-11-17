@@ -1,0 +1,15 @@
+/workspaces/ES10/MonitoramentoMetrica/bin/Debug/net8.0/MonitoramentoMetrica
+/workspaces/ES10/MonitoramentoMetrica/bin/Debug/net8.0/MonitoramentoMetrica.deps.json
+/workspaces/ES10/MonitoramentoMetrica/bin/Debug/net8.0/MonitoramentoMetrica.runtimeconfig.json
+/workspaces/ES10/MonitoramentoMetrica/bin/Debug/net8.0/MonitoramentoMetrica.dll
+/workspaces/ES10/MonitoramentoMetrica/bin/Debug/net8.0/MonitoramentoMetrica.pdb
+/workspaces/ES10/MonitoramentoMetrica/obj/Debug/net8.0/MonitoramentoMetrica.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ES10/MonitoramentoMetrica/obj/Debug/net8.0/MonitoramentoMetrica.AssemblyInfoInputs.cache
+/workspaces/ES10/MonitoramentoMetrica/obj/Debug/net8.0/MonitoramentoMetrica.AssemblyInfo.cs
+/workspaces/ES10/MonitoramentoMetrica/obj/Debug/net8.0/MonitoramentoMetrica.csproj.CoreCompileInputs.cache
+/workspaces/ES10/MonitoramentoMetrica/obj/Debug/net8.0/MonitoramentoMetrica.sourcelink.json
+/workspaces/ES10/MonitoramentoMetrica/obj/Debug/net8.0/MonitoramentoMetrica.dll
+/workspaces/ES10/MonitoramentoMetrica/obj/Debug/net8.0/refint/MonitoramentoMetrica.dll
+/workspaces/ES10/MonitoramentoMetrica/obj/Debug/net8.0/MonitoramentoMetrica.pdb
+/workspaces/ES10/MonitoramentoMetrica/obj/Debug/net8.0/MonitoramentoMetrica.genruntimeconfig.cache
+/workspaces/ES10/MonitoramentoMetrica/obj/Debug/net8.0/ref/MonitoramentoMetrica.dll
